@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.mytest.dian</groupId>
+  <artifactId>github-maven-test</artifactId>
+  <version>0.0.2-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20120619060121</lastUpdated>
+  </versioning>
+</metadata>
